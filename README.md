@@ -3,7 +3,7 @@ The Task was to create a #Payment Gateway Integration.It is a donation website w
 
 Used Razorpay as a Payment Gateway and used HTML and CSS for designing the website.
 
-* AIMS
+* AIM
 
 ◇ Create a simple website where payment gateway is integrated.
 
